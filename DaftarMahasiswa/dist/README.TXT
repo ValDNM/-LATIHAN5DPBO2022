@@ -30,3 +30,10 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+============================== CHANGE LOG ====================================
+- Adding gender attribute to mahasiswa class including it get and set method
+- Adding a function to clear input text fields after each add/update/delete operation
+- Adding a warning when inputting incomplete datas
+- When updating, if user input an empty data, the update button won't bring back user to the adding mode anymore
+
